@@ -6,6 +6,7 @@ public class TT {
 		System.out.println("haohao 学习");
 		//枯燥的没有味道
 		//认真一点
+		//过年啦
 	}
 
 }
